@@ -1,0 +1,13 @@
+User-Agent: Tells the server that Postman version 7.43.0 is what's being 
+used to make the request
+
+Accept: Says that your request can handle any type of data the server sends back
+
+Postman-Token: A unique tracking number Postman creates for each request you make
+
+Host: Shows which website or server you're trying to connect to
+
+Accept-Encoding: Lists the ways your request can receive compressed data to 
+make things faster
+
+Connection: Asks to keep the connection open so you can make more requests quickly
